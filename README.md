@@ -12,7 +12,7 @@
 - **Python**: pandas, numpy, seaborn, scipy, statsmodels, matplotlib, plotly
 - **SQL**: агрегация, фильтрация, джойны, вложенные запросы
 - BI-инструменты: **DataLens**, **Tableau**
-- Базы данных: **PostgreSQ**, **ClickHouse**, **SQLite**, **Greenplum**
+- Базы данных: **PostgreSQL**, **ClickHouse**, **SQLite**, **Greenplum**
 
 ## Моё портфолио pet-проектов
 
