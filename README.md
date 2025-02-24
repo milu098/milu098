@@ -16,6 +16,6 @@
 
 ## Моё портфолио
 
-1. [Проект e-commerce: исследование и анализ покупок в интернет-магазине]()<br />
+1. [Проект e-commerce: исследование и анализ покупок в интернет-магазине](https://github.com/milu098/pet_projects/blob/main/Project_First.ipynb)<br />
    Проект e-commerce: выполнена предобработка данных, проведен анализ совершенных покупок в интернет-магазине <br />
    stack: `Python`, `Pandas`, `Matplotlib` <br />
